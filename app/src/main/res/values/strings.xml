@@ -2,8 +2,8 @@
     <string name="app_name">KartolaFC</string>
     <string name="title_home">Home</string>
     <string name="title_dashboard">Dashboard</string>
-    <string name="title_notifications">Notifications</string>
+    <string name="title_highlight">Highlights</string>
 
-    <!-- TODO: Remove or change this placeholder text -->
-    <string name="hello_blank_fragment">Rodada Atual: </string>
+    <string name="home_fragment_title">Home Fragment</string>
+    <string name="dashboard_fragment_title">Dashboard Fragment</string>
 </resources>
